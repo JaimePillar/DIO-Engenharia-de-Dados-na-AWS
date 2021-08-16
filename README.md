@@ -1,5 +1,12 @@
 # Instruções para atividade prática
-Repositório para a Live de 24/06/2021
+- Conceitos de ingestão, transformação e análise análise de
+dados
+
+- Ferramentas da AWS: SnowBall , Kinesis , MapReduce , Glue
+e Redshift
+
+- Implementação uma ferramenta de análise utilizando AWS
+Kinesis, S3 e Glue DataBrew
 
 ### Kinesis Delivery Stream
 
